@@ -1854,8 +1854,6 @@ import java.sql.*;
                      break;
  
                  case 19:
-                     System.out.printf(
-                             "[PROGRAM DEVELOPMENT UPDATE NOTICE]%n%nBy: The Library Developer (Serzax Lucifer)%n%nHey guys!%nWe're excited to announce that we're actively developing this program further and plan to introduce so many things soon. We'll be releasing a massive update called 'Library 2.0' scheduled for release in January 2023 with exact release data to be confirmed. Stay tuned for more on the release ~%n%nThe Library 2.0 program's development update is planned to included(*)%n%n1.) JDBC-ODBC Driver Support: mySQL Integration -- Your data will not be lost when you exit the program. [Networking Support to be introduced in mid-2023].%n2.) Library 2.0 will be available in both formats -- Terminal View and a New GUI-based application that can be run from its .exe file with aesthetic designs and interfaces!%n3.) The processing of dates, input of dates will be automatic and will not need to be entered manually. We've revamped from scratch how date storage and processing works in Lib2.0 to allow automatic date and time capturing and much faster date operations' performance.%n4.) Library 2.0 will be properly exception handled. It will not CRASH during runtime unless something fatal happens internally. External exceptions will be taken care of properly. %n5.) Archived Records will become restorable.%n6.) In late 2023, Email Integration, Advanced APIs are planned to be included.%n%n(*)Subject to change without notice.%n%nThank you for your support all along! We hope you're excited about this news.");
                      System.out.println();
                      break;
  
