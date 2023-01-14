@@ -1,9 +1,4 @@
-// Our goal is to produce 3 sets of programs and to compare their efficiency!
-/*
- * 1st MODEL: Uses .bin files to store data. We believe, this will provide the quickest program (in case data is not very huge)!
- * 2ND MODEL: Uses mySQL databases to sync all data on program boot-up in RAM. Slower, and requires a lot of setup on client side.
- * 3RD MODEL: Totally based on DBMS (mySQL). All execution will involve the database. Updates will be directly made there. Can handle very large data with more efficiency and much more optimally. (no such need is required for now. So we will not work on this model. Besides, this model IS JUST an extension of Model-2, can be worked later on!)
- */
+
 
  import java.io.BufferedReader;
  import java.io.InputStreamReader;
